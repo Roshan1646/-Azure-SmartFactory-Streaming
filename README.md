@@ -57,5 +57,7 @@ graph LR
 
 ---
 **Author:** Roshan Vinnarasau
-**LinkedIn:** ```https://www.linkedin.com/in/roshan1602/
+
+**LinkedIn:** https://www.linkedin.com/in/roshan1602/
+
 **Project Date:** July 2026
